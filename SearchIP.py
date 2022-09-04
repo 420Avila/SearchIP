@@ -5,7 +5,8 @@ user = getpass.getuser()
 hostname = socket.gethostname()
 ip = socket.gethostbyname(hostname)
 
-
-print("El nombre de tu ordenador es: " + hostname)
-print("tu direción IP es: " + ip)
-print("tu nombre de usuario es: " + user)
+print("+---------------------------------------------------+")
+print("| - Tu nombre de Usuario es: " + user )
+print("| - Tu direción IP es: " + ip)
+print("| - El nombre de tu Ordenador es: " + hostname )
+print("+---------------------------------------------------+")
