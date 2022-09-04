@@ -6,5 +6,5 @@ con el uso de las librerias socket y getpass, se logra conocer la informacion qu
 la libreria soket se obtiene  la IP y El Nombre del equipo y con la libreria getpass se obtine el Nombre de Usuario.
 
 <p align ="center">
- <img width="80%" src="https://github.com/420Avila/SearchIP/blob/main/Image/BuscarIP.png" />
+ <img width="50%" src="https://github.com/420Avila/SearchIP/blob/main/Imege/BuscarIP.py.png" />
 </p>
