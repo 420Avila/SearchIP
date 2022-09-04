@@ -1,5 +1,5 @@
 # SearchIP
-Este es un script sencillo para buscar tu IP, el nombre de tu equipo y el nombre de Usuaerio en Windows.
+Este es un script sencillo para buscar tu IP, el nombre de tu equipo y el nombre de Usuario en Windows.
 
 funciones:
 con el uso de las librerias socket y getpass, se logra conocer la informacion que estamos solicitando.
